@@ -1,1 +1,2 @@
 This is B.txt file
+This is another B.txt
